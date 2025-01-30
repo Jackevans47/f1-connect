@@ -47,7 +47,8 @@
     "@babel/core": "7.22.5",
     "@babel/eslint-parser": "7.22.5",
     "@babel/preset-env": "7.22.5",
-    "msw": "^2.7.0"
+    "msw": "^2.7.0",
+    "nsw": "^0.1.0"
   },
   "engines": {
     "node": "16.19.1",
